@@ -1,0 +1,12 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  background: grey;
+}
+
+#paint-canvas {
+  position: absolute;
+  background-color: #000000;
+  cursor: crosshair;
+}
